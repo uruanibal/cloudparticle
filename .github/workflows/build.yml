@@ -1,0 +1,61 @@
+name: Build FFGL Plugin (Windows + macOS)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install CMake
+        run: choco install cmake --installargs 'ADD_CMAKE_TO_PATH=System'
+
+      - name: Clone FFGL SDK
+        run: git clone --depth 1 https://github.com/Resolume/ffgl.git FFGL-SDK
+
+      - name: Configure CMake
+        run: cmake -B build -DFFGL_SDK_ROOT=${{ github.workspace }}/FFGL-SDK
+
+      - name: Build (Release)
+        run: cmake --build build --config Release
+
+      - name: Upload DLL
+        uses: actions/upload-artifact@v3
+        with:
+          name: ParticleCloudPlugin-Windows
+          path: build/bin/Release/ParticleCloudPlugin.dll
+
+  build-macos:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Clone FFGL SDK
+        run: git clone --depth 1 https://github.com/Resolume/ffgl.git FFGL-SDK
+
+      - name: Configure CMake
+        run: cmake -B build -DFFGL_SDK_ROOT=${{ github.workspace }}/FFGL-SDK
+
+      - name: Build (Release)
+        run: cmake --build build --config Release
+
+      - name: Rename dylib to bundle
+        run: |
+          mkdir -p dist
+          cp build/bundle/ParticleCloudPlugin build/dist/ParticleCloudPlugin.bundle
+
+      - name: Upload Bundle
+        uses: actions/upload-artifact@v3
+        with:
+          name: ParticleCloudPlugin-macOS
+          path: build/dist/ParticleCloudPlugin.bundle

@@ -1,0 +1,8 @@
+.vs/
+out/
+build/
+CMakeCache.txt
+CMakeFiles/
+*.vcxproj
+*.vcxproj.filters
+*.user
