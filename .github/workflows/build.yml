@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-    build-windows:
+  build-windows:
     runs-on: windows-latest
     steps:
       - name: Checkout
@@ -29,7 +29,6 @@ jobs:
           name: cloudparticle-windows
           path: artifacts
 
-
   build-macos:
     runs-on: macos-latest
     steps:
@@ -41,10 +40,11 @@ jobs:
 
       - name: Build macOS
         run: |
-          cmake -S . -B build
-          cmake --build build --config Release
+          cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+          cmake --build build
           mkdir artifacts
-          cp build/*.bundle artifacts/
+          cp build/*.bundle artifacts/ || true
+          cp build/*.dylib artifacts/ || true
 
       - name: Upload macOS artifact
         uses: actions/upload-artifact@v4
