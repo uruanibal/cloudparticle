@@ -1,23 +1,45 @@
-cmake_minimum_required(VERSION 3.15)
-project(ParticleCloudModern)
+cmake_minimum_required(VERSION 3.10)
+project(ParticleCloudPlugin)
+set(CMAKE_CXX_STANDARD 14)
 
-set(CMAKE_CXX_STANDARD 17)
+# FFGL SDK paths
+set(FFGL_SDK_ROOT "${CMAKE_SOURCE_DIR}/ffgl-sdk")
+set(FFGL_SOURCE_DIR "${FFGL_SDK_ROOT}/source")
 
-# Path to the embedded FFGL SDK
-set(FFGL_SDK_ROOT "${CMAKE_CURRENT_SOURCE_DIR}/ffgl-sdk")
+include_directories(
+    ${FFGL_SOURCE_DIR}/lib/ffgl
+    ${FFGL_SOURCE_DIR}/lib/ffglquickstart
+    ${FFGL_SDK_ROOT}/deps/glew-2.1.0/include
+)
 
-include(${FFGL_SDK_ROOT}/cmake/macros.cmake)
+# FFGL core sources (EXACTOS en tu SDK)
+set(FFGL_CORE_SOURCES
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGL.cpp
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGLLog.cpp
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGLPluginInfo.cpp
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGLPluginInfoData.cpp
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGLPluginManager.cpp
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGLPluginSDK.cpp
+    ${FFGL_SOURCE_DIR}/lib/ffgl/FFGLThumbnailInfo.cpp
+)
 
-add_subdirectory(${FFGL_SDK_ROOT} ffgl_build)
-
-add_library(ParticleCloudModern SHARED
+# Plugin source
+set(PLUGIN_SOURCES
     ParticleCloudModern.cpp
+    ${FFGL_CORE_SOURCES}
 )
 
-target_include_directories(ParticleCloudModern PRIVATE
-    ${FFGL_SDK_ROOT}/source
+add_library(ParticleCloudPlugin SHARED ${PLUGIN_SOURCES})
+
+find_package(OpenGL REQUIRED)
+target_link_libraries(ParticleCloudPlugin ${OPENGL_gl_LIBRARY})
+
+# GLEW static lib (exists in your SDK)
+target_link_libraries(ParticleCloudPlugin
+    ${FFGL_SDK_ROOT}/deps/glew-2.1.0/lib/Release/x64/glew32s.lib
 )
 
-target_link_libraries(ParticleCloudModern
-    FFGLSDK
+set_target_properties(ParticleCloudPlugin PROPERTIES
+    RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"
+    LIBRARY_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"
 )

@@ -1,0 +1,560 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 8A4B-072F
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk
+
+01/12/2025  22:47    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          .git
+01/12/2025  22:34               350 .gitignore
+01/12/2025  22:34    <DIR>          build
+01/12/2025  22:34    <DIR>          cmake
+01/12/2025  22:34             2.419 CMakeLists.txt
+01/12/2025  22:34    <DIR>          deps
+01/12/2025  22:47                 0 dir.txt
+01/12/2025  22:34             1.465 LICENSE.md
+01/12/2025  22:34             5.701 README.md
+01/12/2025  22:34    <DIR>          source
+01/12/2025  22:34               181 vcpkg.json
+               6 archivos         10.116 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:47    <DIR>          ..
+01/12/2025  22:34               299 config
+01/12/2025  22:34                73 description
+01/12/2025  22:34                23 HEAD
+01/12/2025  22:34    <DIR>          hooks
+01/12/2025  22:34            19.085 index
+01/12/2025  22:34    <DIR>          info
+01/12/2025  22:34    <DIR>          logs
+01/12/2025  22:34    <DIR>          objects
+01/12/2025  22:34               226 packed-refs
+01/12/2025  22:34    <DIR>          refs
+               5 archivos         19.706 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\hooks
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               478 applypatch-msg.sample
+01/12/2025  22:34               896 commit-msg.sample
+01/12/2025  22:34             4.726 fsmonitor-watchman.sample
+01/12/2025  22:34               189 post-update.sample
+01/12/2025  22:34               424 pre-applypatch.sample
+01/12/2025  22:34             1.649 pre-commit.sample
+01/12/2025  22:34               416 pre-merge-commit.sample
+01/12/2025  22:34             1.374 pre-push.sample
+01/12/2025  22:34             4.898 pre-rebase.sample
+01/12/2025  22:34               544 pre-receive.sample
+01/12/2025  22:34             1.492 prepare-commit-msg.sample
+01/12/2025  22:34             2.783 push-to-checkout.sample
+01/12/2025  22:34             2.308 sendemail-validate.sample
+01/12/2025  22:34             3.650 update.sample
+              14 archivos         25.827 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\info
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               240 exclude
+               1 archivos            240 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\logs
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               205 HEAD
+01/12/2025  22:34    <DIR>          refs
+               1 archivos            205 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\logs\refs
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          heads
+01/12/2025  22:34    <DIR>          remotes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\logs\refs\heads
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               205 master
+               1 archivos            205 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\logs\refs\remotes
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\logs\refs\remotes\origin
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               205 HEAD
+               1 archivos            205 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\objects
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          info
+01/12/2025  22:34    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\objects\info
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\objects\pack
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34            65.444 pack-e7e5d8874552cf7a721dc88cee6baae413672fa7.idx
+01/12/2025  22:34         5.120.261 pack-e7e5d8874552cf7a721dc88cee6baae413672fa7.pack
+01/12/2025  22:34             9.248 pack-e7e5d8874552cf7a721dc88cee6baae413672fa7.rev
+               3 archivos      5.194.953 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\refs
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          heads
+01/12/2025  22:34    <DIR>          remotes
+01/12/2025  22:34    <DIR>          tags
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\refs\heads
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34                41 master
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\refs\remotes
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\refs\remotes\origin
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34                32 HEAD
+               1 archivos             32 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\.git\refs\tags
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:47    <DIR>          ..
+01/12/2025  22:34    <DIR>          osx
+01/12/2025  22:34               217 PluginIds.txt
+01/12/2025  22:34    <DIR>          windows
+               1 archivos            217 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34             1.613 FFGL.xcconfig
+01/12/2025  22:34               698 FFGLPlugin-Info.plist
+01/12/2025  22:34    <DIR>          FFGLPlugins.xcodeproj
+01/12/2025  22:34               131 FFGL_Debug.xcconfig
+01/12/2025  22:34               133 FFGL_Release.xcconfig
+               4 archivos          2.575 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34           108.083 project.pbxproj
+01/12/2025  22:34    <DIR>          project.xcworkspace
+01/12/2025  22:34    <DIR>          xcshareddata
+               1 archivos        108.083 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj\project.xcworkspace
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               163 contents.xcworkspacedata
+01/12/2025  22:34    <DIR>          xcshareddata
+01/12/2025  22:34    <DIR>          xcuserdata
+               1 archivos            163 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj\project.xcworkspace\xcshareddata
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34             2.673 FFGLPlugins.xccheckout
+01/12/2025  22:34               246 IDEWorkspaceChecks.plist
+               2 archivos          2.919 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj\project.xcworkspace\xcuserdata
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          edwindekoning.xcuserdatad
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj\project.xcworkspace\xcuserdata\edwindekoning.xcuserdatad
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               412 WorkspaceSettings.xcsettings
+               1 archivos            412 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj\xcshareddata
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          xcschemes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\osx\FFGLPlugins.xcodeproj\xcshareddata\xcschemes
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34             3.013 ALL.xcscheme
+01/12/2025  22:34             2.446 Events.xcscheme
+               2 archivos          5.459 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\build\windows
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34                16 .gitignore
+01/12/2025  22:34            11.010 Add.vcxproj
+01/12/2025  22:34             9.620 Add.vcxproj.filters
+01/12/2025  22:34            11.042 AddSubtract.vcxproj
+01/12/2025  22:34             9.652 AddSubtract.vcxproj.filters
+01/12/2025  22:34            13.513 CustomThumbnail.vcxproj
+01/12/2025  22:34            12.730 CustomThumbnail.vcxproj.filters
+01/12/2025  22:34            11.011 Events.vcxproj
+01/12/2025  22:34             9.640 Events.vcxproj.filters
+01/12/2025  22:34                22 FFGLPlugins.def
+01/12/2025  22:34             4.212 FFGLPlugins.sln
+01/12/2025  22:34            11.075 Gradient.vcxproj
+01/12/2025  22:34             9.652 Gradient.vcxproj.filters
+01/12/2025  22:34               718 Particles.filters
+01/12/2025  22:34            11.679 Particles.vcxproj
+01/12/2025  22:34            10.578 Particles.vcxproj.filters
+              16 archivos        136.170 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\cmake
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:47    <DIR>          ..
+01/12/2025  22:34                61 ffgl-sdk-config.cmake
+               1 archivos             61 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:47    <DIR>          ..
+01/12/2025  22:34    <DIR>          glew-2.1.0
+01/12/2025  22:34               764 glew.props
+               1 archivos            764 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps\glew-2.1.0
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          include
+01/12/2025  22:34    <DIR>          lib
+01/12/2025  22:34             3.870 LICENSE.txt
+               1 archivos          3.870 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps\glew-2.1.0\include
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          GL
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps\glew-2.1.0\include\GL
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34           106.212 eglew.h
+01/12/2025  22:34         1.210.287 glew.h
+01/12/2025  22:34            75.210 glxew.h
+01/12/2025  22:34            64.761 wglew.h
+               4 archivos      1.456.470 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps\glew-2.1.0\lib
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          Release
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps\glew-2.1.0\lib\Release
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          x64
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\deps\glew-2.1.0\lib\Release\x64
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34         2.584.968 glew32s.lib
+               1 archivos      2.584.968 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:47    <DIR>          ..
+01/12/2025  22:38    <DIR>          lib
+01/12/2025  22:34    <DIR>          plugins
+01/12/2025  22:34             2.912 _clang-format
+               1 archivos          2.912 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\lib
+
+01/12/2025  22:38    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          ffgl
+01/12/2025  22:34    <DIR>          ffglex
+01/12/2025  22:34    <DIR>          ffglquickstart
+01/12/2025  22:34             1.491 FFGLSDK.cpp
+01/12/2025  22:34             1.191 FFGLSDK.h
+01/12/2025  22:38    <DIR>          glad
+               2 archivos          2.682 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\lib\ffgl
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:38    <DIR>          ..
+01/12/2025  22:34            35.207 FFGL.cpp
+01/12/2025  22:34            24.068 FFGL.h
+01/12/2025  22:34             3.394 FFGLLib.h
+01/12/2025  22:34               305 FFGLLog.cpp
+01/12/2025  22:34               161 FFGLLog.h
+01/12/2025  22:34               474 FFGLPlatform.h
+01/12/2025  22:34             4.097 FFGLPluginInfo.cpp
+01/12/2025  22:34             9.257 FFGLPluginInfo.h
+01/12/2025  22:34               333 FFGLPluginInfoData.cpp
+01/12/2025  22:34            14.680 FFGLPluginManager.cpp
+01/12/2025  22:34            28.117 FFGLPluginManager.h
+01/12/2025  22:34             2.756 FFGLPluginSDK.cpp
+01/12/2025  22:34             8.694 FFGLPluginSDK.h
+01/12/2025  22:34             1.451 FFGLThumbnailInfo.cpp
+01/12/2025  22:34             7.152 FFGLThumbnailInfo.h
+              15 archivos        140.146 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\lib\ffglex
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:38    <DIR>          ..
+01/12/2025  22:34             3.854 FFGLFBO.cpp
+01/12/2025  22:34             6.038 FFGLFBO.h
+01/12/2025  22:34             1.319 FFGLScopedBufferBinding.cpp
+01/12/2025  22:34             2.031 FFGLScopedBufferBinding.h
+01/12/2025  22:34               985 FFGLScopedFBOBinding.cpp
+01/12/2025  22:34               672 FFGLScopedFBOBinding.h
+01/12/2025  22:34               472 FFGLScopedRenderBufferBinding.cpp
+01/12/2025  22:34               285 FFGLScopedRenderBufferBinding.h
+01/12/2025  22:34               444 FFGLScopedSamplerActivation.cpp
+01/12/2025  22:34               277 FFGLScopedSamplerActivation.h
+01/12/2025  22:34               378 FFGLScopedShaderBinding.cpp
+01/12/2025  22:34               261 FFGLScopedShaderBinding.h
+01/12/2025  22:34               439 FFGLScopedTextureBinding.cpp
+01/12/2025  22:34               490 FFGLScopedTextureBinding.h
+01/12/2025  22:34               364 FFGLScopedVAOBinding.cpp
+01/12/2025  22:34               249 FFGLScopedVAOBinding.h
+01/12/2025  22:34             2.670 FFGLScreenQuad.cpp
+01/12/2025  22:34             1.093 FFGLScreenQuad.h
+01/12/2025  22:34            12.583 FFGLShader.cpp
+01/12/2025  22:34             3.737 FFGLShader.h
+01/12/2025  22:34             3.271 FFGLUtilities.cpp
+01/12/2025  22:34             5.176 FFGLUtilities.h
+              22 archivos         47.088 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\lib\ffglquickstart
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:38    <DIR>          ..
+01/12/2025  22:34             2.230 FFGLAudio.cpp
+01/12/2025  22:34             2.303 FFGLAudio.h
+01/12/2025  22:34             1.565 FFGLEffect.cpp
+01/12/2025  22:34               535 FFGLEffect.h
+01/12/2025  22:34             2.149 FFGLMixer.cpp
+01/12/2025  22:34               530 FFGLMixer.h
+01/12/2025  22:34             1.099 FFGLParam.cpp
+01/12/2025  22:34               778 FFGLParam.h
+01/12/2025  22:34               584 FFGLParamBool.cpp
+01/12/2025  22:34               372 FFGLParamBool.h
+01/12/2025  22:34               316 FFGLParamEvent.cpp
+01/12/2025  22:34               238 FFGLParamEvent.h
+01/12/2025  22:34               569 FFGLParamFFT.cpp
+01/12/2025  22:34               400 FFGLParamFFT.h
+01/12/2025  22:34             1.260 FFGLParamOption.cpp
+01/12/2025  22:34               801 FFGLParamOption.h
+01/12/2025  22:34               947 FFGLParamRange.cpp
+01/12/2025  22:34               585 FFGLParamRange.h
+01/12/2025  22:34               570 FFGLParamText.cpp
+01/12/2025  22:34               392 FFGLParamText.h
+01/12/2025  22:34               370 FFGLParamTrigger.cpp
+01/12/2025  22:34               274 FFGLParamTrigger.h
+01/12/2025  22:34            11.434 FFGLPlugin.cpp
+01/12/2025  22:34            11.961 FFGLPlugin.h
+01/12/2025  22:34               435 FFGLRandom.cpp
+01/12/2025  22:34               274 FFGLRandom.h
+01/12/2025  22:34               314 FFGLSmoothValue.cpp
+01/12/2025  22:34               279 FFGLSmoothValue.h
+01/12/2025  22:34               536 FFGLSource.cpp
+01/12/2025  22:34               469 FFGLSource.h
+01/12/2025  22:34             2.948 FFGLUtils.h
+              31 archivos         47.517 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\lib\glad
+
+01/12/2025  22:38    <DIR>          .
+01/12/2025  22:38    <DIR>          ..
+30/11/2025  22:34               307 glad.h
+               1 archivos            307 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34    <DIR>          Add
+01/12/2025  22:34    <DIR>          AddSubtract
+01/12/2025  22:34               173 CMakeLists.txt
+01/12/2025  22:34    <DIR>          CustomThumbnail
+01/12/2025  22:34    <DIR>          Events
+01/12/2025  22:34    <DIR>          Gradients
+01/12/2025  22:34    <DIR>          Particles
+               1 archivos            173 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\Add
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34             4.953 Add.cpp
+01/12/2025  22:34               621 Add.h
+01/12/2025  22:34               334 CMakeLists.txt
+               3 archivos          5.908 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\AddSubtract
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34             4.204 AddSubtract.cpp
+01/12/2025  22:34               671 AddSubtract.h
+01/12/2025  22:34               414 CMakeLists.txt
+               3 archivos          5.289 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\CustomThumbnail
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               800 CMakeLists.txt
+01/12/2025  22:34             6.541 CustomThumbnail.cpp
+01/12/2025  22:34               671 CustomThumbnail.h
+01/12/2025  22:34    <DIR>          lpng1637
+01/12/2025  22:34             8.059 PNGLoader.cpp
+01/12/2025  22:34               275 PNGLoader.h
+01/12/2025  22:34            34.002 Thumb.h
+01/12/2025  22:34             6.707 Thumb.png
+01/12/2025  22:34    <DIR>          zlib-1.2.11
+               7 archivos         57.055 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\CustomThumbnail\lpng1637
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34         2.171.672 libpng16.a
+01/12/2025  22:34           854.072 libpng16d.a
+01/12/2025  22:34           633.760 libpng16_static.lib
+01/12/2025  22:34         1.020.830 libpng16_staticd.lib
+01/12/2025  22:34           146.107 png.h
+01/12/2025  22:34            23.469 pngconf.h
+01/12/2025  22:34             5.472 pngdebug.h
+01/12/2025  22:34            12.781 pnginfo.h
+01/12/2025  22:34             7.830 pnglibconf.h
+01/12/2025  22:34            91.920 pngpriv.h
+01/12/2025  22:34            20.687 pngstruct.h
+              11 archivos      4.988.600 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\CustomThumbnail\zlib-1.2.11
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34            31.003 crc32.h
+01/12/2025  22:34            13.499 deflate.h
+01/12/2025  22:34             7.037 gzguts.h
+01/12/2025  22:34               438 inffast.h
+01/12/2025  22:34             6.426 inffixed.h
+01/12/2025  22:34             6.743 inflate.h
+01/12/2025  22:34             2.990 inftrees.h
+01/12/2025  22:34           224.992 libz.a
+01/12/2025  22:34             8.600 trees.h
+01/12/2025  22:34            16.832 zconf.h
+01/12/2025  22:34            98.151 zlib.h
+01/12/2025  22:34           176.208 zlibstatic.lib
+01/12/2025  22:34           286.580 zlibstaticd.lib
+01/12/2025  22:34             7.398 zutil.h
+              14 archivos        886.897 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\Events
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               370 CMakeLists.txt
+01/12/2025  22:34             6.942 FFGLEvents.cpp
+01/12/2025  22:34               602 FFGLEvents.h
+               3 archivos          7.914 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\Gradients
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               397 CMakeLists.txt
+01/12/2025  22:34             4.379 FFGLGradients.cpp
+01/12/2025  22:34               930 FFGLGradients.h
+               3 archivos          5.706 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\Particles
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               568 CMakeLists.txt
+01/12/2025  22:34               547 Constants.cpp
+01/12/2025  22:34               267 Constants.h
+01/12/2025  22:34             7.849 GLResources.cpp
+01/12/2025  22:34               766 GLResources.h
+01/12/2025  22:34            13.174 Particles.cpp
+01/12/2025  22:34             1.337 Particles.h
+01/12/2025  22:34    <DIR>          shaders
+               7 archivos         24.508 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\ffgl-sdk\source\plugins\Particles\shaders
+
+01/12/2025  22:34    <DIR>          .
+01/12/2025  22:34    <DIR>          ..
+01/12/2025  22:34               244 fsRender.h
+01/12/2025  22:34             1.728 gsRender.h
+01/12/2025  22:34             1.344 vsRender.h
+01/12/2025  22:34             4.931 vsUpdate.h
+               4 archivos          8.247 bytes
+
+     Total de archivos en la lista:
+             198 archivos     15.784.610 bytes
+             152 dirs  92.792.205.312 bytes libres
