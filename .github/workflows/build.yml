@@ -1,61 +1,52 @@
-name: Build FFGL Plugin (Windows + macOS)
+name: Build FFGL Plugin
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ main ]
+    branches: [ "main" ]
 
 jobs:
-
   build-windows:
     runs-on: windows-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Install CMake
-        run: choco install cmake --installargs 'ADD_CMAKE_TO_PATH=System'
+        uses: jwlawson/actions-setup-cmake@v1
 
-      - name: Clone FFGL SDK
-        run: git clone --depth 1 https://github.com/Resolume/ffgl.git FFGL-SDK
+      - name: Build Windows
+        run: |
+          cmake -S . -B build -A x64
+          cmake --build build --config Release
+          mkdir artifacts
+          copy build\Release\*.dll artifacts\
 
-      - name: Configure CMake
-        run: cmake -B build -DFFGL_SDK_ROOT=${{ github.workspace }}/FFGL-SDK
-
-      - name: Build (Release)
-        run: cmake --build build --config Release
-
-      - name: Upload DLL
-        uses: actions/upload-artifact@v3
+      - name: Upload Windows artifact
+        uses: actions/upload-artifact@v4
         with:
-          name: ParticleCloudPlugin-Windows
-          path: build/bin/Release/ParticleCloudPlugin.dll
+          name: cloudparticle-windows
+          path: artifacts
 
   build-macos:
     runs-on: macos-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Clone FFGL SDK
-        run: git clone --depth 1 https://github.com/Resolume/ffgl.git FFGL-SDK
+      - name: Install CMake
+        run: brew install cmake
 
-      - name: Configure CMake
-        run: cmake -B build -DFFGL_SDK_ROOT=${{ github.workspace }}/FFGL-SDK
-
-      - name: Build (Release)
-        run: cmake --build build --config Release
-
-      - name: Rename dylib to bundle
+      - name: Build macOS
         run: |
-          mkdir -p dist
-          cp build/bundle/ParticleCloudPlugin build/dist/ParticleCloudPlugin.bundle
+          cmake -S . -B build
+          cmake --build build --config Release
+          mkdir artifacts
+          cp build/*.bundle artifacts/
 
-      - name: Upload Bundle
-        uses: actions/upload-artifact@v3
+      - name: Upload macOS artifact
+        uses: actions/upload-artifact@v4
         with:
-          name: ParticleCloudPlugin-macOS
-          path: build/dist/ParticleCloudPlugin.bundle
+          name: cloudparticle-macos
+          path: artifacts
