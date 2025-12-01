@@ -1,0 +1,1760 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 8A4B-072F
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle
+
+01/12/2025  22:26    <DIR>          .
+01/12/2025  21:33    <DIR>          ..
+01/12/2025  22:22    <DIR>          .git
+01/12/2025  21:42    <DIR>          .github
+01/12/2025  21:52                87 .gitignore
+01/12/2025  21:42    <DIR>          .vs
+01/12/2025  22:22    <DIR>          build
+01/12/2025  21:41             1.668 CMakeLists.txt
+01/12/2025  22:26                 0 dir.txt
+01/12/2025  21:38    <DIR>          out
+01/12/2025  21:27            18.061 ParticleCloudModern.cpp
+01/12/2025  21:34    <DIR>          scripts
+               4 archivos         19.816 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git
+
+01/12/2025  22:22    <DIR>          .
+01/12/2025  22:26    <DIR>          ..
+01/12/2025  22:22                22 COMMIT_EDITMSG
+01/12/2025  22:04               364 config
+01/12/2025  21:33                73 description
+01/12/2025  22:05               102 FETCH_HEAD
+01/12/2025  21:33                21 HEAD
+01/12/2025  21:33    <DIR>          hooks
+01/12/2025  22:22               475 index
+01/12/2025  21:33    <DIR>          info
+01/12/2025  21:54    <DIR>          logs
+01/12/2025  22:22    <DIR>          objects
+01/12/2025  22:05                41 ORIG_HEAD
+01/12/2025  22:04    <DIR>          refs
+               7 archivos          1.098 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\hooks
+
+01/12/2025  21:33    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:33               478 applypatch-msg.sample
+01/12/2025  21:33               896 commit-msg.sample
+01/12/2025  21:33             4.726 fsmonitor-watchman.sample
+01/12/2025  21:33               189 post-update.sample
+01/12/2025  21:33               424 pre-applypatch.sample
+01/12/2025  21:33             1.649 pre-commit.sample
+01/12/2025  21:33               416 pre-merge-commit.sample
+01/12/2025  21:33             1.374 pre-push.sample
+01/12/2025  21:33             4.898 pre-rebase.sample
+01/12/2025  21:33               544 pre-receive.sample
+01/12/2025  21:33             1.492 prepare-commit-msg.sample
+01/12/2025  21:33             2.783 push-to-checkout.sample
+01/12/2025  21:33             2.308 sendemail-validate.sample
+01/12/2025  21:33             3.650 update.sample
+              14 archivos         25.827 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\info
+
+01/12/2025  21:33    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:33               240 exclude
+               1 archivos            240 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\logs
+
+01/12/2025  21:54    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:22             1.134 HEAD
+01/12/2025  22:04    <DIR>          refs
+               1 archivos          1.134 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\logs\refs
+
+01/12/2025  22:04    <DIR>          .
+01/12/2025  21:54    <DIR>          ..
+01/12/2025  21:54    <DIR>          heads
+01/12/2025  22:04    <DIR>          remotes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\logs\refs\heads
+
+01/12/2025  21:54    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+01/12/2025  22:22             1.134 main
+               1 archivos          1.134 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\logs\refs\remotes
+
+01/12/2025  22:04    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+01/12/2025  22:04    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\logs\refs\remotes\origin
+
+01/12/2025  22:04    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+01/12/2025  22:22             1.026 main
+               1 archivos          1.026 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects
+
+01/12/2025  22:22    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21    <DIR>          00
+01/12/2025  22:21    <DIR>          02
+01/12/2025  22:21    <DIR>          03
+01/12/2025  22:21    <DIR>          05
+01/12/2025  21:54    <DIR>          0c
+01/12/2025  22:21    <DIR>          0e
+01/12/2025  22:21    <DIR>          0f
+01/12/2025  22:17    <DIR>          12
+01/12/2025  22:21    <DIR>          13
+01/12/2025  22:21    <DIR>          15
+01/12/2025  22:21    <DIR>          16
+01/12/2025  22:21    <DIR>          17
+01/12/2025  22:21    <DIR>          1a
+01/12/2025  22:21    <DIR>          1d
+01/12/2025  22:21    <DIR>          1e
+01/12/2025  22:21    <DIR>          1f
+01/12/2025  22:21    <DIR>          20
+01/12/2025  22:21    <DIR>          23
+01/12/2025  22:21    <DIR>          26
+01/12/2025  22:21    <DIR>          27
+01/12/2025  22:21    <DIR>          29
+01/12/2025  22:21    <DIR>          2a
+01/12/2025  22:21    <DIR>          2b
+01/12/2025  22:21    <DIR>          2d
+01/12/2025  22:21    <DIR>          2e
+01/12/2025  22:21    <DIR>          2f
+01/12/2025  22:21    <DIR>          30
+01/12/2025  22:21    <DIR>          33
+01/12/2025  22:21    <DIR>          34
+01/12/2025  22:21    <DIR>          36
+01/12/2025  22:21    <DIR>          3a
+01/12/2025  22:21    <DIR>          3d
+01/12/2025  22:21    <DIR>          3e
+01/12/2025  22:21    <DIR>          3f
+01/12/2025  22:21    <DIR>          42
+01/12/2025  22:21    <DIR>          43
+01/12/2025  22:13    <DIR>          44
+01/12/2025  22:21    <DIR>          46
+01/12/2025  22:21    <DIR>          4a
+01/12/2025  21:44    <DIR>          4b
+01/12/2025  22:21    <DIR>          4d
+01/12/2025  22:21    <DIR>          4e
+01/12/2025  22:21    <DIR>          4f
+01/12/2025  22:21    <DIR>          50
+01/12/2025  22:21    <DIR>          56
+01/12/2025  22:21    <DIR>          58
+01/12/2025  21:44    <DIR>          5b
+01/12/2025  22:21    <DIR>          5c
+01/12/2025  22:21    <DIR>          5e
+01/12/2025  22:21    <DIR>          5f
+01/12/2025  22:21    <DIR>          61
+01/12/2025  22:21    <DIR>          63
+01/12/2025  22:21    <DIR>          64
+01/12/2025  22:21    <DIR>          65
+01/12/2025  22:21    <DIR>          66
+01/12/2025  22:21    <DIR>          68
+01/12/2025  22:21    <DIR>          69
+01/12/2025  22:09    <DIR>          6c
+01/12/2025  22:21    <DIR>          71
+01/12/2025  22:21    <DIR>          72
+01/12/2025  22:21    <DIR>          73
+01/12/2025  22:21    <DIR>          75
+01/12/2025  22:21    <DIR>          76
+01/12/2025  22:21    <DIR>          77
+01/12/2025  22:21    <DIR>          78
+01/12/2025  22:21    <DIR>          7a
+01/12/2025  22:21    <DIR>          7c
+01/12/2025  22:21    <DIR>          7e
+01/12/2025  22:09    <DIR>          80
+01/12/2025  22:17    <DIR>          86
+01/12/2025  22:21    <DIR>          88
+01/12/2025  22:21    <DIR>          89
+01/12/2025  22:21    <DIR>          8b
+01/12/2025  22:21    <DIR>          8c
+01/12/2025  22:21    <DIR>          8d
+01/12/2025  22:13    <DIR>          8f
+01/12/2025  22:21    <DIR>          92
+01/12/2025  22:21    <DIR>          96
+01/12/2025  22:21    <DIR>          97
+01/12/2025  22:21    <DIR>          98
+01/12/2025  22:21    <DIR>          99
+01/12/2025  22:21    <DIR>          9a
+01/12/2025  22:21    <DIR>          9b
+01/12/2025  22:21    <DIR>          9c
+01/12/2025  22:21    <DIR>          9d
+01/12/2025  22:21    <DIR>          9e
+01/12/2025  22:21    <DIR>          a0
+01/12/2025  22:21    <DIR>          a2
+01/12/2025  22:21    <DIR>          a4
+01/12/2025  22:21    <DIR>          a5
+01/12/2025  22:22    <DIR>          a6
+01/12/2025  22:21    <DIR>          a8
+01/12/2025  22:21    <DIR>          a9
+01/12/2025  22:21    <DIR>          ad
+01/12/2025  22:21    <DIR>          af
+01/12/2025  22:21    <DIR>          b0
+01/12/2025  22:21    <DIR>          b2
+01/12/2025  22:21    <DIR>          b3
+01/12/2025  22:21    <DIR>          b5
+01/12/2025  22:21    <DIR>          b6
+01/12/2025  22:21    <DIR>          b7
+01/12/2025  22:21    <DIR>          b8
+01/12/2025  22:21    <DIR>          b9
+01/12/2025  22:21    <DIR>          ba
+01/12/2025  22:21    <DIR>          bb
+01/12/2025  22:09    <DIR>          bd
+01/12/2025  22:21    <DIR>          be
+01/12/2025  22:21    <DIR>          c0
+01/12/2025  22:21    <DIR>          c1
+01/12/2025  22:21    <DIR>          c5
+01/12/2025  22:21    <DIR>          c6
+01/12/2025  22:21    <DIR>          cc
+01/12/2025  22:21    <DIR>          cd
+01/12/2025  22:21    <DIR>          ce
+01/12/2025  22:21    <DIR>          cf
+01/12/2025  22:17    <DIR>          d1
+01/12/2025  22:21    <DIR>          d2
+01/12/2025  22:21    <DIR>          d3
+01/12/2025  22:21    <DIR>          d6
+01/12/2025  22:21    <DIR>          d7
+01/12/2025  22:21    <DIR>          db
+01/12/2025  22:21    <DIR>          dc
+01/12/2025  22:21    <DIR>          dd
+01/12/2025  22:21    <DIR>          df
+01/12/2025  22:21    <DIR>          e0
+01/12/2025  22:21    <DIR>          e1
+01/12/2025  22:13    <DIR>          e3
+01/12/2025  22:21    <DIR>          e4
+01/12/2025  22:21    <DIR>          e5
+01/12/2025  21:44    <DIR>          e6
+01/12/2025  22:21    <DIR>          e7
+01/12/2025  22:21    <DIR>          e8
+01/12/2025  22:21    <DIR>          e9
+01/12/2025  22:21    <DIR>          ea
+01/12/2025  22:21    <DIR>          eb
+01/12/2025  22:21    <DIR>          ec
+01/12/2025  22:21    <DIR>          ed
+01/12/2025  22:21    <DIR>          f0
+01/12/2025  22:21    <DIR>          f1
+01/12/2025  22:21    <DIR>          f2
+01/12/2025  22:21    <DIR>          f3
+01/12/2025  22:21    <DIR>          f5
+01/12/2025  22:21    <DIR>          f7
+01/12/2025  22:21    <DIR>          f9
+01/12/2025  22:21    <DIR>          fa
+01/12/2025  21:44    <DIR>          fb
+01/12/2025  21:33    <DIR>          info
+01/12/2025  21:33    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\00
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.610 d5a4569e4d8b9f1b33e118129b0045949e7b43
+               1 archivos          1.610 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\02
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             3.045 e25a7ada8e8c2f51560570aee08664aa1b83f9
+               1 archivos          3.045 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\03
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               119 07715798e774cda768674dd2f3a900f5b0561b
+               1 archivos            119 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\05
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               310 7a77e1b1c9516e29df514add3ede7cdfa49fb4
+01/12/2025  22:21                45 8acf96ef4ed40daa3f8052e21b1ac7b35c46b7
+               2 archivos            355 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\0c
+
+01/12/2025  21:54    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:54               154 8fce7f52eda26afe9e1cabc0fd358bd949d068
+               1 archivos            154 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\0e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               203 e166152e3b3cbcda4d8615baa04f6c1095e14b
+               1 archivos            203 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\0f
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               158 f25818069247b874d95cb3a3d362434895b6cc
+               1 archivos            158 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\12
+
+01/12/2025  22:17    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:17               432 1c59ee9ced645e546fcf97af2f55c0993b099c
+               1 archivos            432 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\13
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            47.208 9eb0dc0f360790c40176a1c074a214b34270f3
+               1 archivos         47.208 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\15
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               188 d0626f32de7e1faf796f1f4df1e2dd84407bfe
+01/12/2025  22:21             1.123 da2f3e177426e7d187ae20bff0bf45874a71a1
+               2 archivos          1.311 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\16
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21                66 974bb8535ff448360ddcb54fcebfd32e72ef35
+               1 archivos             66 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\17
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.929 434e4e1f1baec9cde7232a563a8a1583292e02
+               1 archivos          2.929 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\1a
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               350 0beea2295544e956cfbff5932b8f6ed2ea3eb3
+               1 archivos            350 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\1d
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               299 3608907e45612be56f5ed2f56a99108f1b8e6a
+               1 archivos            299 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\1e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               572 16fbe543b6585d268b6af806bed1f87d74367b
+01/12/2025  22:21             1.330 e43a517ed21c5feebb27b8272a092031119523
+               2 archivos          1.902 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\1f
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.548 23c2db122deec9b4da8db23e7bd7744729800d
+01/12/2025  22:21             5.070 98dedc4284bf788ad884ef5e9350aa5bcaaee4
+               2 archivos          6.618 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\20
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            13.636 97c0f033bf7d3a6412f050e78dbf9e77595152
+01/12/2025  22:21               182 bfd5d914594301f2b6406b979f56df1c26458e
+               2 archivos         13.818 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\23
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               185 1f4b1a22dd312621a6c6812080ff293f7a8625
+01/12/2025  22:21             5.256 ecdd312bc06eb41a40dce73358e62dea8772d2
+               2 archivos          5.441 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\26
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               132 0b5479b826a50dfa18764e85ab9eb893e76da1
+               1 archivos            132 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\27
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               896 be67e272d8b82f4ad26f75446b22d6a6c4c3c6
+               1 archivos            896 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\29
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               604 7044ceea839a5b46d8187a584c8eb53bda7344
+               1 archivos            604 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\2a
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               221 dba7e2494e2c7f77c955082027aca283bd79e1
+               1 archivos            221 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\2b
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               232 2aa27236e598fb2949648a1d304d9aefc09f2f
+01/12/2025  22:21             5.012 52dac5ed759778f718e38e5606a12f1c51c4d4
+               2 archivos          5.244 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\2d
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             5.439 3a4a64cae37c9a33e5735b5f5b5e2182189cab
+               1 archivos          5.439 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\2e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21                45 e54e1ae71fda07080b9b76def2d83cf9dfa630
+               1 archivos             45 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\2f
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               214 e9cb66de6b624d01d3b997f9b51ae275a8626e
+               1 archivos            214 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\30
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               281 e155af3ce59debe9666b56f7a1292ae57b2257
+               1 archivos            281 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\33
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               223 4456bd567258b12937caaf1ba5345d5fcce89e
+01/12/2025  22:21               879 c795660b344e7d0709d8f6fdc3a4ceb9061377
+               2 archivos          1.102 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\34
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21                55 49af16db787631ae2f499c8f9ab241cea49c7a
+               1 archivos             55 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\36
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               221 6dfc83d5ba98a22b0e22a022862fae9c780afc
+               1 archivos            221 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\3a
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               185 84e53345282b65d576e733949ef80c51f0fc18
+               1 archivos            185 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\3d
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               181 7a8bfa4bf1e0476e75bb8b2cb5c8f4e135a299
+               1 archivos            181 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\3e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               573 201253ec2c07268c9402499c572f1290f2e031
+01/12/2025  22:22               172 bf1c7da9d97e864f1399161c7910d1d8240f43
+               2 archivos            745 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\3f
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               431 ceb2a5af0000d63b37de82f1a17531f9385d22
+01/12/2025  22:21               745 e3e741e4f56cf3bba4ea4d0b5a2b00d8085870
+               2 archivos          1.176 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\42
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21           109.210 1cf37a9c6a018102036634292885d82ae649d0
+01/12/2025  22:21               610 2a2b00c802a5f0a35cde45841a59ecda9897bf
+01/12/2025  22:21             1.746 3324f9b7effc979bc82e50a5cc650c23fc2421
+               3 archivos        111.566 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\43
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               304 413388785ecbd2106ebab3d31ac747cbe9e61c
+01/12/2025  22:21               269 e83d733e4fb2427aa5ef0abbc0fe6c47203715
+               2 archivos            573 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\44
+
+01/12/2025  22:13    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:13                54 a3d2dc5e1df638a5bc766bdf5effa20472ef90
+               1 archivos             54 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\46
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            21.058 70147948b975c5a704b08c763a9c14190e1f91
+01/12/2025  22:21               304 e9eb89e8316e6b8a0aa2a86c17066c48e182bf
+               2 archivos         21.362 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\4a
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21                49 aeb73fbcaf453387dac9c6992a823b9002e761
+01/12/2025  22:21               263 b877620b3beabcd6c5dcb78cc665e2b934298d
+               2 archivos            312 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\4b
+
+01/12/2025  21:44    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:44                15 825dc642cb6eb9a060e54bf8d69288fbee4904
+               1 archivos             15 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\4d
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.740 0b68fc568293cc17788cfb9b3bb2238d2f5acb
+01/12/2025  22:21             1.157 6e465f26e6438dcbbdd6e2dc54856fb650b05d
+               2 archivos          2.897 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\4e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.573 a9a339b4892515d328183a92b03028e5d78704
+               1 archivos          2.573 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\4f
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            12.774 55f7cfaa83c81d57093567247ed9f95ef91bc0
+               1 archivos         12.774 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\50
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               311 7242dc91c4082f1f01cb19e2cd8214c83d54be
+               1 archivos            311 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\56
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               201 789491d5d4cc6553534a699e0e922662ee26de
+01/12/2025  22:21               793 89fa1fe88947e60976835fff5b09928dc1c59e
+               2 archivos            994 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\58
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            28.808 3c26f9bdecfc8bf5b885d6b2b6187f9665ff37
+01/12/2025  22:21           690.219 4c462e57f3a1bc85a38a823d3b6c3d21619718
+               2 archivos        719.027 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\5b
+
+01/12/2025  21:44    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:53               539 09dd290dc77c96c8d470938fcb317d73a1ab8f
+               1 archivos            539 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\5c
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               182 b1086b171171893689f580927e485efbe88403
+01/12/2025  22:21             1.397 f4d8d42d456e2baf123bdb8fc03ea946486b47
+               2 archivos          1.579 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\5e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             5.113 1d68a004e9744cb35f9d5a2fe94fd4dbcb7f76
+01/12/2025  22:21             2.194 e1212fac8c606b026501da76adc4adf38ab491
+               2 archivos          7.307 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\5f
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               212 b1b78479ad10d6bf0f84a0562e64ee31a1d4d0
+01/12/2025  22:21             7.175 eae8d3561233e30407c678605f5fcbffe58f55
+               2 archivos          7.387 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\61
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               348 67c55dac7545c9528b08c18dacc4b8de90533d
+01/12/2025  22:21               242 7808d9c0a1229da6f48c8d7f0524cd2ca29e40
+01/12/2025  22:21               369 bc644f4969b453c640d64607900820d8db9f14
+               3 archivos            959 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\63
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.235 e97cec90e1111bef81448920a0e5e37e5d118a
+               1 archivos          1.235 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\64
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             3.660 ccd5af250e9386b0365e55e090ad53e6f1bb9b
+               1 archivos          3.660 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\65
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21                76 c4994670e7a553df54228f3dff5aed42557868
+               1 archivos             76 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\66
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               309 c7196416f4bb235ec310371d188f740dc29ab5
+               1 archivos            309 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\68
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:45               123 82b67e5a0f3d9a26808934c3d9633a7ee67a45
+01/12/2025  22:21             3.205 c5cb44c9ca06b9045ee1cba39b16d7e3b36ca1
+               2 archivos          3.328 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\69
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:13               172 12a892495b286c148a3a8642df2bfac63d712e
+01/12/2025  22:21             1.009 9eae1754a23277bdb77408a3b995f4fea9e293
+               2 archivos          1.181 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\6c
+
+01/12/2025  22:09    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:09               413 47ab31098ae291a2b8c756d292df3786656659
+               1 archivos            413 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\71
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.571 623b121bc09e1dba1a62a1b7ca0a66a6a28d6d
+               1 archivos          2.571 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\72
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               188 c607507a2ea5b63ec11cc3a338b05788618b93
+               1 archivos            188 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\73
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             4.816 3a8e0da510bd6963be530a7b6c634bc166a79d
+01/12/2025  22:21               138 75b458c853e80886e285b2a98cc43dd7f7f3a6
+               2 archivos          4.954 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\75
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             3.945 2a185d645d73e022cba517b1a8efd74c8e504e
+01/12/2025  22:21               363 ea2de8c697a404e7d5d57b4928576165aedac7
+               2 archivos          4.308 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\76
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               360 096a6c39a748f2d047075fe7cef61ea9ff6d50
+               1 archivos            360 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\77
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               348 ee381251ad7bb401ee7bce2f018bfec24997dc
+               1 archivos            348 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\78
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             5.318 c3ddbe4d695a7dfa6c380fb28fc3b56ae4c156
+               1 archivos          5.318 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\7a
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               316 35da5ec36e8e40345d5780c694f7d8697295bb
+               1 archivos            316 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\7c
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               308 258d05d8a622843a97303f7a995d8a3bfeda7c
+01/12/2025  22:21               189 3f74e24401e02b339da486bb883d11e6a80f7a
+01/12/2025  22:21               374 8ae23c37ed9a0ea3cfd1bb07930d2db87c4d2e
+               3 archivos            871 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\7e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            16.227 39c2fd98252e008f081073895a5165ba2147f6
+               1 archivos         16.227 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\80
+
+01/12/2025  22:09    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:09               172 0b5b4b53079892462f272bd065c103ea1c9c47
+               1 archivos            172 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\86
+
+01/12/2025  22:17    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:17               187 b118c0cf6405de7872aff6eb460169fe9fb7d5
+               1 archivos            187 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\88
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               199 27bec435d84cb6ed90f7d7196e5546a33a8566
+               1 archivos            199 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\89
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               372 2133b082e6ef1200a059d3f32b5c9d29de6944
+01/12/2025  22:21             3.142 ea679fc17ee8225902f0aa5a1da151073c5dfd
+               2 archivos          3.514 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\8b
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             7.089 dc7ce46dbbbb17aca9797d857d1015fa459a8d
+               1 archivos          7.089 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\8c
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             3.913 9e154801285b491d4f10827cb66aacfd368e81
+               1 archivos          3.913 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\8d
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               117 ba803c6131cb6af603b7ed20d87b7d914e38e9
+               1 archivos            117 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\8f
+
+01/12/2025  22:13    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:13               184 041d3097dc792df7295c4db4cac66b09861f6b
+01/12/2025  21:45                58 0d733463d30657c0cd500f8b136d73ba96437e
+               2 archivos            242 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\92
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.630 00a632acc35265393ae324e6082b9905fc2da9
+01/12/2025  22:21             8.255 7a769dbee8c1915db4d6e309c9a257c1bf05c1
+               2 archivos         10.885 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\96
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               299 1c56e85ac533bfc6b73e0a5dbcc99ee976f97a
+01/12/2025  22:21             1.445 6056d0cd66b99ee9ab93e7f8e282315ad12db4
+               2 archivos          1.744 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\97
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.729 299ee4b4823d14d39a7a8e0e7e84e75c95a4de
+               1 archivos          1.729 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\98
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               118 1b350e9f2e28f1419c9f1417cd7069d00079c0
+               1 archivos            118 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\99
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.791 0a4d2514933709883a7d949ed52146675fe2c1
+01/12/2025  22:21                88 cd4910324218bb5cad8df4e0d61521a7d98fc6
+01/12/2025  22:21               578 e8c0843355bb71a2ee446e64e4008563e86a0c
+               3 archivos          3.457 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\9a
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21           938.594 a0356c5d8d2e1116e5085d55d30013b127b508
+               1 archivos        938.594 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\9b
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               442 a2cb4a9897f26fc8a5eaa0486eb2e88070abc1
+01/12/2025  22:21               442 ceeabb218ee90742879ecd4d86522aeeb8747f
+               2 archivos            884 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\9c
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.119 adf8b99d41635e4a4322a71e472336429d9ce0
+01/12/2025  22:21             2.942 f8fbad7b49d284e44bfab08c8474bc7bd20116
+               2 archivos          5.061 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\9d
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             3.977 94ca9db27c948d16fbdfa51f54b0f91312b720
+01/12/2025  22:21             2.300 e03bd7d3a9aa6ca2086006167f2d5006fc5185
+               2 archivos          6.277 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\9e
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            13.774 0c7781025148380d130d6f7b6e590117ad3a8c
+               1 archivos         13.774 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a0
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21           385.169 199e59e66bad4d8bc2e4edd4f59d27d80037ea
+               1 archivos        385.169 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a2
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:13                52 092a26aedea2a08a1e435ef5423107ec0e09fb
+01/12/2025  22:21             1.200 3af939dfa5a57eebddc7847083bbc57cdc175b
+               2 archivos          1.252 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a4
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.448 6cce6b6d05ef994d2a386257cf09068f0aa298
+               1 archivos          2.448 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a5
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               188 92558fd7929bc3df0797cd25fb989cf6b70a33
+01/12/2025  21:53               735 db52c74ed4f0f4ffe181589b2f6a948d90a7d6
+               2 archivos            923 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a6
+
+01/12/2025  22:22    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:22               187 4c8fbad2bbf0e16a963b4f1df1dfcbf22f94c7
+               1 archivos            187 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a8
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.642 fe71c61111d5abf399ec66d79f84e5b5329fa5
+               1 archivos          1.642 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\a9
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               135 0b836a5bbf8cd755c827817d74bfa52b6cab16
+01/12/2025  22:21               447 6ccde5375c5534594a29001de39bb6e57c2d0b
+01/12/2025  21:53             5.381 bb8fc9a385a6846da233547063a1b853bbfe26
+               3 archivos          5.963 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\ad
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               294 098905100c4148f82239fca6de800420c2355c
+               1 archivos            294 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\af
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               185 32f3a36e05ffb4a44f2a906183feb165832a5f
+               1 archivos            185 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b0
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:53                80 473ec00349cf902e7a04bdb1459c106397e6bb
+01/12/2025  22:21             2.934 79ea6a80f5abd23a6b2451d6eaee50ceda969b
+01/12/2025  22:21               292 b3347c1a0cc8ef5ddb3615f2d850abc5aea426
+01/12/2025  22:21             1.839 c1c04ee17462e9fa60ebd851b52ade8d1f92b5
+               4 archivos          5.145 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b2
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               175 8bc2cafbfb44e9b1fb950b7ae092bd0a06b9bd
+01/12/2025  22:21               455 c8efe40fade8e2e171afcd46c1ae6afae854ef
+01/12/2025  22:21               185 d4ed55feaca207e3083814af09978f05e9ca7f
+               3 archivos            815 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b3
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21                93 e44fe50b034b0a47e258c09365623a901fb02f
+               1 archivos             93 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b5
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21           210.081 b6987fc70de735ac7a8327d3cc7c729ce2ae32
+01/12/2025  22:21             1.070 ffda4eecc99af7e34b9a76b215e4681ac82f7a
+               2 archivos        211.151 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b6
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               177 659c9c2df9c807d89bcba2eb0538f48c89600f
+01/12/2025  21:54                52 b47fe85e8d9cf2a096ac57ab2d6894358ab846
+               2 archivos            229 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b7
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               542 cc997bc21eaf3dee00e397bae76b73cca07fc9
+               1 archivos            542 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b8
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               130 5ef6c2b3c7d58b015adcab6e6b2bc3f81862f1
+01/12/2025  22:21               222 b173300ecb0c574b1893e069d874c25f5dad53
+               2 archivos            352 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\b9
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               272 718d654f7b7d5237792c09c919b9616a66ce72
+               1 archivos            272 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\ba
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             7.238 2b1ce6703bec706ede9427e9f49481be4c6267
+01/12/2025  22:21             1.325 a53a0b1a199ce6ea4c3f99d0306502ab4fab2c
+               2 archivos          8.563 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\bb
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               174 4d2d87471287162b0f706bbed128013fd39f60
+               1 archivos            174 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\bd
+
+01/12/2025  22:09    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:09                51 acb0eb8f104b2f945e2710cc2bab7fed75891b
+               1 archivos             51 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\be
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               408 3ee54923fe35cbc91c80a3234b091bcb334e95
+01/12/2025  22:21             3.323 ff3885394064973cb6052063be0d7b77279a41
+               2 archivos          3.731 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\c0
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               269 4f9d6e85a5b6971effb7d610b7b9823e00d10d
+01/12/2025  22:21               287 fa7a6e167451a30994fb51dd7f3e06361fed3c
+               2 archivos            556 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\c1
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               190 0de5c36362ed3a94450426fe6b7e75815fea2c
+01/12/2025  22:21               125 9abbd77fa1e665ba3f993990d6a6adc0fc4c06
+               2 archivos            315 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\c5
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               854 fd6bf072acf78b9be60b064af7d9fa69de8c85
+               1 archivos            854 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\c6
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.358 786dfe26f97d50957b82680002d645436a9c2a
+01/12/2025  22:21           246.737 93762a07c7233b566fb26fd41e27fcfd38c0c9
+               2 archivos        249.095 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\cc
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.383 40b2b6cae3f20b1db03aef01a7111ea3884891
+01/12/2025  22:09                54 cd72621d27a20d55c2012815c62df9370dc8a5
+               2 archivos          2.437 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\cd
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               670 b2bc79fac376adbf89d4b0d5901df901b42187
+               1 archivos            670 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\ce
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:54               173 0780b775faf5b42e3bb5c9804720bb65622934
+01/12/2025  22:21           381.641 2a5854e9d05367bb44ed29861413b317e2c723
+               2 archivos        381.814 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\cf
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               410 2a302db33e504eba2ff286b8769934b3d012f2
+               1 archivos            410 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\d1
+
+01/12/2025  22:17    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:17                54 e59751e36f7d5e6184c842cb40d010b761ff26
+               1 archivos             54 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\d2
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               306 7b2085464c87fd737762ef9ef43efa72ca5b59
+               1 archivos            306 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\d3
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               754 55c439598bf477da59d6cfd1f7be35718164bd
+01/12/2025  22:21             1.766 5639d82a27807e49ea35c334f8bbcf64720f82
+               2 archivos          2.520 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\d6
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.937 283277694802ce7938f537f12990d6eead4924
+               1 archivos          1.937 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\d7
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21            77.375 99c01872817199f149543876f46b752cece9eb
+               1 archivos         77.375 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\db
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               807 734369de455ae154919352b5ec910672a90446
+               1 archivos            807 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\dc
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:54                54 70c830dbd7031741f097832babb93a9ff91ae6
+01/12/2025  22:21               200 8a86078e593b67f959280c54e8922185022d72
+               2 archivos            254 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\dd
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               735 7846bceaf0f2bb6ec579c402314f9eb367c2cc
+               1 archivos            735 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\df
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               180 4845c6371bccd0727934190efd61108263753d
+01/12/2025  22:21               358 c39c897e046d36d68d51e5713b5b0843e3982c
+               2 archivos            538 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e0
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               217 c5644ca1603dd93d31367fa3237b9521cc7b14
+               1 archivos            217 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e1
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.765 e27e957ea310112f792b42c05d04dea16187f1
+               1 archivos          1.765 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e3
+
+01/12/2025  22:13    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:13               431 f0bc1831704a9bab687e58aeb4e2b84d44f412
+               1 archivos            431 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e4
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               118 6bb713eacf4dfde88760b8c1b00c7ea9eed8d4
+01/12/2025  22:21               791 f704f26a0b3f861c1a534409a31a6b5bb1d275
+               2 archivos            909 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e5
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               307 c1aa4ca8cd5244423680865609c71ab68f9ab6
+01/12/2025  22:21               124 d944b05224b077a5edc80b484f0c54fd7f0806
+               2 archivos            431 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e6
+
+01/12/2025  21:44    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:45                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               1 archivos             15 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e7
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.024 c09ce61de15746801b584d6c628dbdec4f9dcf
+               1 archivos          1.024 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e8
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               272 4190e2b1f49d6fa535facfab963cba9e0f79b7
+01/12/2025  22:21             2.384 c9cea9b2cccb2bbe40c04dacade41456839cdf
+               2 archivos          2.656 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\e9
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               122 3aeee1f2cd64cec3d3760c919dd323c610cae2
+01/12/2025  22:21             9.528 f4c993019975b2d11ba1c6176f7292d19a5aa5
+               2 archivos          9.650 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\ea
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               327 34a0b93f53bd71af7f833bfee620ed9819ffc6
+01/12/2025  22:21               177 ad94de4324b69b1a229a887b0295ba23379a5f
+               2 archivos            504 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\eb
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:09               191 0df1e16cd2ca7c5ab4ea11e0f384a0dc22a11d
+01/12/2025  22:21             4.325 4086863593474f480a3e4bbb8e31dd2105a16e
+01/12/2025  22:21               201 622a9a9f2772bb0e45e1ca655c3d85e33b5961
+               3 archivos          4.717 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\ec
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               566 28c16ddd0ed9c050997aea84b16a8adbe97775
+01/12/2025  22:21               180 4c2c6df218b33bd35a32ac62160cab4c8efcbd
+               2 archivos            746 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\ed
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.525 6811921714a50c741c448791db045cbe32e372
+01/12/2025  22:21           115.552 bfc3778f51f84979418007aff5075e9bdd5917
+01/12/2025  22:21             2.937 cf8ac1c88c4c5a38ac243528b21bea0685f0b4
+               3 archivos        121.014 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f0
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               217 03fe80519af2308b9df530e31d6770cef0b025
+01/12/2025  22:21            32.239 9cdaf1e0543de911d8220befdb51fa8632a9e6
+               2 archivos         32.456 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f1
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.363 533ca07151dea0f5461f0ed030c7a85782d97d
+               1 archivos          2.363 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f2
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               164 1734781944f308478fd3f0c8ebd69ae7b19829
+01/12/2025  22:17                51 658a407cea37878bac33d82f75b91d9a6b46c9
+               2 archivos            215 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f3
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               139 51d298ecf69950f9bcac6fcd579e38cc187198
+01/12/2025  22:21             1.178 cc1269ff2abdd215433e1823ed925cf02619b5
+               2 archivos          1.317 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f5
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             6.728 74ee39d6f5df6c268d857758f4b51922f10b3d
+               1 archivos          6.728 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f7
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             1.534 078042e95053d8e5b28a9d2024f43ddddfe89d
+               1 archivos          1.534 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\f9
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21               254 2bb248e9533c83a00cb87e21a619c685936161
+               1 archivos            254 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\fa
+
+01/12/2025  22:21    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:21             2.050 e252a11e7ccb8e62f580679074d3c4b13e7ef3
+               1 archivos          2.050 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\fb
+
+01/12/2025  21:44    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  21:45                35 4d46b4f63586ab46cf1db461b78ed3aa141040
+               1 archivos             35 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\info
+
+01/12/2025  21:33    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\objects\pack
+
+01/12/2025  21:33    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\refs
+
+01/12/2025  22:04    <DIR>          .
+01/12/2025  22:22    <DIR>          ..
+01/12/2025  22:22    <DIR>          heads
+01/12/2025  22:04    <DIR>          remotes
+01/12/2025  21:33    <DIR>          tags
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\refs\heads
+
+01/12/2025  22:22    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+01/12/2025  22:22                41 main
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\refs\remotes
+
+01/12/2025  22:04    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+01/12/2025  22:22    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\refs\remotes\origin
+
+01/12/2025  22:22    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+01/12/2025  22:22                41 main
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.git\refs\tags
+
+01/12/2025  21:33    <DIR>          .
+01/12/2025  22:04    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.github
+
+01/12/2025  21:42    <DIR>          .
+01/12/2025  22:26    <DIR>          ..
+01/12/2025  21:42    <DIR>          workflows
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.github\workflows
+
+01/12/2025  21:42    <DIR>          .
+01/12/2025  21:42    <DIR>          ..
+01/12/2025  22:17             1.277 build.yml
+               1 archivos          1.277 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.vs
+
+01/12/2025  21:42    <DIR>          .
+01/12/2025  22:26    <DIR>          ..
+01/12/2025  21:38    <DIR>          cloudparticle
+01/12/2025  21:38                 0 CMake Overview
+01/12/2025  21:38                44 ProjectSettings.json
+01/12/2025  21:42            90.112 slnx.sqlite
+01/12/2025  21:38               147 VSWorkspaceState.json
+               4 archivos         90.303 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.vs\cloudparticle
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:42    <DIR>          ..
+01/12/2025  21:52    <DIR>          FileContentIndex
+01/12/2025  22:00    <DIR>          v17
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.vs\cloudparticle\FileContentIndex
+
+01/12/2025  21:52    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:42               204 8d2d7e15-e544-4a39-b76f-3ac1b42a51e5.vsidx
+01/12/2025  21:43             4.945 c9c96c76-b03c-4b55-ba62-9a79e0cab8b9.vsidx
+01/12/2025  21:52            32.492 e85968ac-3b88-48c4-90aa-5b65a962eb0b.vsidx
+               3 archivos         37.641 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\.vs\cloudparticle\v17
+
+01/12/2025  22:00    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  22:00            14.848 .wsuo
+01/12/2025  21:38           417.792 Browse.VC.db
+01/12/2025  21:38            32.768 Browse.VC.db-shm
+01/12/2025  21:38                 0 Browse.VC.db-wal
+01/12/2025  22:00             2.162 DocumentLayout.json
+               5 archivos        467.570 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build
+
+01/12/2025  22:25    <DIR>          .
+01/12/2025  22:26    <DIR>          ..
+01/12/2025  22:19            14.983 CMakeCache.txt
+01/12/2025  22:25    <DIR>          CMakeFiles
+               1 archivos         14.983 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles
+
+01/12/2025  22:25    <DIR>          .
+01/12/2025  22:25    <DIR>          ..
+01/12/2025  22:19    <DIR>          4.2.0
+01/12/2025  22:25                86 cmake.check_cache
+01/12/2025  22:19            99.873 CMakeConfigureLog.yaml
+01/12/2025  22:25                76 generate.stamp.list
+01/12/2025  22:25    <DIR>          pkgRedirects
+               3 archivos        100.035 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:25    <DIR>          ..
+01/12/2025  22:19             3.252 CMakeCCompiler.cmake
+01/12/2025  22:19             6.508 CMakeCXXCompiler.cmake
+01/12/2025  22:19            53.248 CMakeDetermineCompilerABI_C.bin
+01/12/2025  22:19            53.248 CMakeDetermineCompilerABI_CXX.bin
+01/12/2025  22:19               212 CMakeRCCompiler.cmake
+01/12/2025  22:19               395 CMakeSystem.cmake
+01/12/2025  22:19    <DIR>          CompilerIdC
+01/12/2025  22:19    <DIR>          CompilerIdCXX
+01/12/2025  22:19    <DIR>          VCTargetsPath
+01/12/2025  22:19                83 VCTargetsPath.txt
+01/12/2025  22:19             1.255 VCTargetsPath.vcxproj
+01/12/2025  22:19    <DIR>          x64
+               8 archivos        118.201 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdC
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19            29.602 CMakeCCompilerId.c
+01/12/2025  22:19            14.848 CompilerIdC.exe
+01/12/2025  22:19             2.798 CompilerIdC.vcxproj
+01/12/2025  22:19    <DIR>          Debug
+01/12/2025  22:19    <DIR>          tmp
+               3 archivos         47.248 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdC\Debug
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19             2.314 CMakeCCompilerId.obj
+01/12/2025  22:19               336 CompilerIdC.exe.recipe
+01/12/2025  22:19    <DIR>          CompilerIdC.tlog
+01/12/2025  22:19                 5 vcpkg.applocal.log
+               3 archivos          2.655 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdC\Debug\CompilerIdC.tlog
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19               854 CL.command.1.tlog
+01/12/2025  22:19               203 Cl.items.tlog
+01/12/2025  22:19               588 CL.read.1.tlog
+01/12/2025  22:19               412 CL.write.1.tlog
+01/12/2025  22:19               232 CompilerIdC.lastbuildstate
+01/12/2025  22:19             1.332 link.command.1.tlog
+01/12/2025  22:19             3.690 link.read.1.tlog
+01/12/2025  22:19               107 link.secondary.1.tlog
+01/12/2025  22:19               406 link.write.1.tlog
+               9 archivos          7.824 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdC\tmp
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdCXX
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19            30.429 CMakeCXXCompilerId.cpp
+01/12/2025  22:19            15.360 CompilerIdCXX.exe
+01/12/2025  22:19             2.806 CompilerIdCXX.vcxproj
+01/12/2025  22:19    <DIR>          Debug
+01/12/2025  22:19    <DIR>          tmp
+               3 archivos         48.595 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdCXX\Debug
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19             2.381 CMakeCXXCompilerId.obj
+01/12/2025  22:19               340 CompilerIdCXX.exe.recipe
+01/12/2025  22:19    <DIR>          CompilerIdCXX.tlog
+01/12/2025  22:19                 5 vcpkg.applocal.log
+               3 archivos          2.726 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdCXX\Debug\CompilerIdCXX.tlog
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19               878 CL.command.1.tlog
+01/12/2025  22:19               213 Cl.items.tlog
+01/12/2025  22:19               600 CL.read.1.tlog
+01/12/2025  22:19               432 CL.write.1.tlog
+01/12/2025  22:19               234 CompilerIdCXX.lastbuildstate
+01/12/2025  22:19             1.356 link.command.1.tlog
+01/12/2025  22:19             3.706 link.read.1.tlog
+01/12/2025  22:19               111 link.secondary.1.tlog
+01/12/2025  22:19               422 link.write.1.tlog
+               9 archivos          7.952 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\CompilerIdCXX\tmp
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\VCTargetsPath
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19    <DIR>          x64
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\VCTargetsPath\x64
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19    <DIR>          Debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\VCTargetsPath\x64\Debug
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19               332 VCTargetsPath.recipe
+01/12/2025  22:19    <DIR>          VCTargetsPath.tlog
+               1 archivos            332 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\VCTargetsPath\x64\Debug\VCTargetsPath.tlog
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19               220 VCTargetsPath.lastbuildstate
+               1 archivos            220 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\x64
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+01/12/2025  22:19    <DIR>          Debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\4.2.0\x64\Debug
+
+01/12/2025  22:19    <DIR>          .
+01/12/2025  22:19    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\build\CMakeFiles\pkgRedirects
+
+01/12/2025  22:25    <DIR>          .
+01/12/2025  22:25    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  22:26    <DIR>          ..
+01/12/2025  21:38    <DIR>          build
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:41    <DIR>          x64-Debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug
+
+01/12/2025  21:41    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38    <DIR>          .cmake
+01/12/2025  21:41            18.627 CMakeCache.txt
+01/12/2025  21:41    <DIR>          CMakeFiles
+01/12/2025  21:41                12 VSInheritEnvironments.txt
+               2 archivos         18.639 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\.cmake
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:41    <DIR>          ..
+01/12/2025  21:38    <DIR>          api
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\.cmake\api
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38    <DIR>          v1
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\.cmake\api\v1
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38    <DIR>          query
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\.cmake\api\v1\query
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38    <DIR>          client-MicrosoftVS
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\.cmake\api\v1\query\client-MicrosoftVS
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38               144 query.json
+               1 archivos            144 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles
+
+01/12/2025  21:41    <DIR>          .
+01/12/2025  21:41    <DIR>          ..
+01/12/2025  21:38    <DIR>          3.28.3-msvc11
+01/12/2025  21:41                86 cmake.check_cache
+01/12/2025  21:38            11.689 CMakeConfigureLog.yaml
+01/12/2025  21:41    <DIR>          pkgRedirects
+01/12/2025  21:38    <DIR>          ShowIncludes
+               2 archivos         11.775 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\3.28.3-msvc11
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:41    <DIR>          ..
+01/12/2025  21:38             2.714 CMakeCCompiler.cmake
+01/12/2025  21:38             5.664 CMakeCXXCompiler.cmake
+01/12/2025  21:38            53.248 CMakeDetermineCompilerABI_C.bin
+01/12/2025  21:38            53.248 CMakeDetermineCompilerABI_CXX.bin
+01/12/2025  21:38               276 CMakeRCCompiler.cmake
+01/12/2025  21:38               447 CMakeSystem.cmake
+01/12/2025  21:38    <DIR>          CompilerIdC
+01/12/2025  21:38    <DIR>          CompilerIdCXX
+               6 archivos        115.597 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\3.28.3-msvc11\CompilerIdC
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38            27.910 CMakeCCompilerId.c
+01/12/2025  21:38           109.568 CMakeCCompilerId.exe
+01/12/2025  21:38             1.979 CMakeCCompilerId.obj
+01/12/2025  21:38    <DIR>          tmp
+               3 archivos        139.457 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\3.28.3-msvc11\CompilerIdC\tmp
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\3.28.3-msvc11\CompilerIdCXX
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+01/12/2025  21:38            27.673 CMakeCXXCompilerId.cpp
+01/12/2025  21:38           109.568 CMakeCXXCompilerId.exe
+01/12/2025  21:38             2.046 CMakeCXXCompilerId.obj
+01/12/2025  21:38    <DIR>          tmp
+               3 archivos        139.287 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\3.28.3-msvc11\CompilerIdCXX\tmp
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:38    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\pkgRedirects
+
+01/12/2025  21:41    <DIR>          .
+01/12/2025  21:41    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\out\build\x64-Debug\CMakeFiles\ShowIncludes
+
+01/12/2025  21:38    <DIR>          .
+01/12/2025  21:41    <DIR>          ..
+01/12/2025  21:38                 2 foo.h
+01/12/2025  21:38                33 main.c
+01/12/2025  21:38               658 main.obj
+               3 archivos            693 bytes
+
+ Directorio de C:\Users\pc\Documents\GitHub\cloudparticle\scripts
+
+01/12/2025  21:34    <DIR>          .
+01/12/2025  22:26    <DIR>          ..
+               0 archivos              0 bytes
+
+     Total de archivos en la lista:
+             327 archivos      5.001.007 bytes
+             611 dirs  92.831.600.640 bytes libres
